@@ -1,4 +1,5 @@
 streamlit
+tensorflow
 roboflow
 opencv-python-headless
 numpy
